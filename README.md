@@ -17,7 +17,7 @@
 </div>
 
 ## My projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dm-borisov&repo=headhunter-pipeline&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dm-borisov&repo=headhunter-pipeline&theme=dracula)](https://github.com/dm-borisov/headhunter-pipeline)
 
 ***
 
